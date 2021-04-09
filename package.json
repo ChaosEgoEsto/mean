@@ -1,0 +1,30 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "mean app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaosEgoEsto/mean.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "angular",
+    "11",
+    "application"
+  ],
+  "author": "Petar Pavlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaosEgoEsto/mean/issues"
+  },
+  "homepage": "https://github.com/ChaosEgoEsto/mean#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
+  }
+}
